@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **React, NodeJS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<ul>
+  <li> LinkedIn: https://www.linkedin.com/in/jaimebahan/</li>
+</ul>
+</h3>
 <p align="left">
 </p>
 
